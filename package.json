@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-kafka-mysamplespp",
+  "version": "1.0.0",
+  "description": "nodejs-kafka-mySampleApp using Kafka and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kafka",
+    "nodejs",
+    "mongoose"
+  ],
+  "author": "Arfat Ali",
+  "dependencies": {
+    "kafkajs": "^2.2.4",
+    "mongoose": "^7.0.5"
+  }
+}
